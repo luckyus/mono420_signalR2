@@ -3,10 +3,12 @@ To show the error when running the SignalR 2 Tutorial Project on Mono 4.2.0
 
 ref: http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr
 
-using: Visual Studio 2013, Raspberry Pi running raspbian, Mono 4.2.0 (25 Aug 2015)
+using: Visual Studio 2013, Raspberry Pi running raspbian, Mono 4.2.0 (25 Aug 2015), xsp4
 
 
 The following is the error when the site is first accessed by browser:
+
+![alt text](http://www.iguardsystem.com/upload/capture.jpg "xsp4 error")
 
 pi@raspberrypi ~ $ cd www
 pi@raspberrypi ~/www $ xsp4
