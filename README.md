@@ -1,8 +1,9 @@
 # mono420_signalR2
 To show the error when running the SignalR 2 Tutorial Project on Mono 4.2.0
 ref: http://www.asp.net/signalr/overview/getting-started/tutorial-getting-started-with-signalr
-using: Visual Studio 2013, Raspberry Pi running raspbian
-==============
+using: Visual Studio 2013, Raspberry Pi running raspbian, Mono 4.2.0 (25 Aug 2015)
+
+
 The following is the error when the site is first accessed by browser:
 
 pi@raspberrypi ~ $ cd www
